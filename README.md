@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luffy-yu
 - 👀 I’m interested in XR, and 🆒 stuff.
-- 🌱 I’m currently a 2nd-year Computer Science PhD student.
+- 🌱 I’m currently a 3rd-year Computer Science PhD student.
 - 💞️ I’m looking to collaborate on the future.
 - 📫 You can learn more about me via [chuange.org](https://www.chuange.org/).
 
