@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Prosto+One&pause=1000&color=3A1FF7&center=true&random=false&width=435&lines=Hi%2C+I+am+Luffy+Yu." alt="Typing SVG" /></a>
   </div>
   
-  <p><b>Aries, ISFJ, An Idealism Doer</b></p>
+  <p><b>Aries, ISFJ, An Idealism Runner</b></p>
   
   <div align="center">
     <a href="mailto:yuliuchuan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836" /></a>&emsp;
