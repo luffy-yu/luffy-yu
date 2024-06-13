@@ -39,10 +39,10 @@
 </div>
 
 - 👋 Hi, I’m @luffy-yu
-- 👀 I’m interested in VR/AR/MR, and 🆒 stuff.
+- 👀 I’m interested in XR, and 🆒 stuff.
 - 🌱 I’m a Computer Science PhD student supervised by [Prof. Craig Yu](https://craigyuyu.github.io/home/) at GMU.
 - 💞️ I’m looking to collaborate on the future.
-- 📫 You can learn more about me via [chuange.org](https://www.chuange.org/).
+- 📫 You can learn more about me at [chuange.org](https://www.chuange.org/).
 
 [![Built with love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://www.chuange.org/)
 
